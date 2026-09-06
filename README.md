@@ -17,8 +17,11 @@ Chatbot con RAG (Retrieval-Augmented Generation) construido en Google Colab, par
 ## 🛠️ Stack técnico
 
 **Frontend:** HTML, CSS, Bootstrap, JavaScript
+
 **Backend:** PHP (MVC), MySQL
+
 **Herramientas:** Git, GitHub, XAMPP, NetBeans
+
 **Explorando:** Python (automatización y bots), IA aplicada (RAG, chatbots)
 
 ## 📫 Contacto
