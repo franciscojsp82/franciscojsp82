@@ -5,7 +5,7 @@ Programador junior en transición hacia el mundo del software con base en experi
 🚀 Proyectos destacados
 🧮 Calculadora Comercial
 
-Calculadora de IVA y Margen de Venta construida con HTML, JavaScript y Bootstrap. Ver demo en vivo
+Calculadora de IVA y Margen de Venta construida con HTML, JavaScript y Bootstrap.
 
 🏥 Agendamiento Clínica
 
