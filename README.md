@@ -14,6 +14,9 @@ Sistema de agendamiento de pacientes para una clínica psicológica, con arquite
 ### 🤖 [Chatbot UAF Chile](https://github.com/franciscojsp82/chatbot-uaf-laft)
 Chatbot con RAG (Retrieval-Augmented Generation) construido en Google Colab, para responder consultas sobre normativa de prevención de lavado de activos y financiamiento del terrorismo en Chile.
 
+### 🏢 [Landing Page Galaz](https://github.com/franciscojsp82/galaz-landing-page)
+Landing page para una empresa de administración de condominios, con formulario conectado a n8n/Google Apps Script (Webhook → Google Sheets) y un panel de edición de estilos en vivo.
+
 ## 🛠️ Stack técnico
 
 **Frontend:** HTML, CSS, Bootstrap, JavaScript
