@@ -2,7 +2,7 @@
 
 ### Control de Gestión · Datos · Automatización
 
-Ingeniero Comercial con **15+ años en planificación y control de gestión**, principalmente en el sector público chileno (CORFO, Subtrans, DGAC, Registro Civil, SERCOTEC). Mi diferencial: **diseño los indicadores y también construyo las herramientas que los miden** — reportería automatizada, sistemas de control de plazos y bots que reducen trabajo manual.
+Ingeniero Comercial con **15+ años en planificación y control de gestión**, principalmente en finanzas y en el sector público chileno (CORFO, Subtrans, DGAC, Registro Civil, SERCOTEC). Mi diferencial: **diseño los indicadores y también construyo las herramientas que los miden** — reportería automatizada, sistemas de control de plazos y bots que reducen trabajo manual.
 
 Técnico en Programación y Análisis de Sistemas · Postgrado en IA y Machine Learning (UT Austin McCombs).
 
