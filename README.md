@@ -1,32 +1,62 @@
-# ¡Hola! Soy Francisco Segura 👋
+# Francisco Segura Pedreros
 
-Programador junior en transición hacia el mundo del software con base en experiencia previa en control de gestión, finanzas y sistemas en mi primera carrera como Ingeniero Comercial. Actualmente trabajando de forma freelance para pequeños emprendimientos y construyendo un portafolio con proyectos full-stack.
+### Control de Gestión · Datos · Automatización
+
+Ingeniero Comercial con **15+ años en planificación y control de gestión**, principalmente en el sector público chileno (CORFO, Subtrans, DGAC, Registro Civil, SERCOTEC). Mi diferencial: **diseño los indicadores y también construyo las herramientas que los miden** — reportería automatizada, sistemas de control de plazos y bots que reducen trabajo manual.
+
+Técnico en Programación y Análisis de Sistemas · Postgrado en IA y Machine Learning (UT Austin McCombs).
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-francisco--segura--cgbi-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-segura-cgbi)
+[![Email](https://img.shields.io/badge/Email-franciscojsp82%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:franciscojsp82@gmail.com)
+![Ubicación](https://img.shields.io/badge/Santiago-Chile-555)
+
+---
+
+## 📊 Lo que hago
+
+| Gestión | Tecnología que aplico |
+|---|---|
+| Formulación y seguimiento de instrumentos de evaluación (CDC, PMG, ADP, Formulario H) | Reportería automatizada en Excel/VBA, Power BI y Python |
+| Contraparte ante DIPRES y jefaturas | Tableros e intranets de compromisos (Google Sites) |
+| Control de plazos y cumplimiento | Sistemas de alertas y seguimiento (Access, Sheets, n8n) |
+| Gestión de riesgos (NCh-ISO 31000) y control interno | Flujos automatizados e integraciones (n8n, Apps Script, APIs) |
+| Asignación y seguimiento de equipos | Chatbots y asistentes con IA (RAG) |
+
+## 🏛️ Experiencia aplicada (selección)
+
+- **CORFO** — Diseñé el sistema de control de plazos de revisión de rendiciones financieras y la reportería interna/externa de la Unidad de Seguimiento Financiero.
+- **Subsecretaría de Transportes** — Implementé la intranet de compromisos institucionales y un sistema de revisión de transacciones.
+- **SERCOTEC** — Automaticé la reportería del Convenio de Desempeño Colectivo (CDC).
+- **DGAC** — Automaticé con macros la reportería de Alta Dirección Pública y de gestión CDC.
+- **Registro Civil** — Desarrollé en MS Access un sistema de control de plazos de consultas jurídicas.
+- **Nabiax (privado)** — Implementé control interno en Chile y Perú y el módulo financiero de SAP.
 
 ## 🚀 Proyectos destacados
 
-### 🧮 [Calculadora Comercial](https://github.com/franciscojsp82/calculadora-comercial)
-Calculadora de IVA y Margen de Venta construida con HTML, JavaScript y Bootstrap.
-**[Ver demo en vivo](https://franciscojsp82.github.io/calculadora-comercial/)**
-
-### 🏥 [Agendamiento Clínica](https://github.com/franciscojsp82/agendamiento-clinica)
-Sistema de agendamiento de pacientes para una clínica psicológica, con arquitectura MVC en PHP y MySQL.
+### 📈 [Proyecto DAX — Tablero de ventas en Power BI](https://github.com/franciscojsp82/proyecto-dax)
+Tablero de gestión comercial sobre 2,28 millones de transacciones (2017–2023), con modelo estrella y un set de medidas DAX: KPIs de ingresos, órdenes y % de devoluciones, inteligencia de tiempo (YTD, MTD, año y mes anterior), rankings de tiendas con `RANKX` y títulos dinámicos.
+**Aporte a la gestión:** seguimiento de resultados frente al año anterior, detección de desvíos por categoría, canal y tienda, y lectura ejecutiva en una sola página de resumen. Versionado en formato PBIP para revisar cada cambio del modelo.
+`Power BI` `DAX` `Modelado dimensional` `Power Query (M)` `PBIP/TMDL`
 
 ### 🤖 [Chatbot UAF Chile](https://github.com/franciscojsp82/chatbot-uaf-laft)
-Chatbot con RAG (Retrieval-Augmented Generation) construido en Google Colab, para responder consultas sobre normativa de prevención de lavado de activos y financiamiento del terrorismo en Chile.
+Asistente RAG que responde consultas sobre normativa de prevención de lavado de activos y financiamiento del terrorismo (LA/FT) en Chile.
+**Aporte a la gestión:** acceso rápido a normativa de cumplimiento, menos tiempo de consulta para equipos de control.
+`Python` `LangChain/RAG` `Google Colab`
 
-### 🏢 [Landing Page Galaz](https://github.com/franciscojsp82/galaz-landing-page)
-Landing page para una empresa de administración de condominios, con formulario conectado a n8n/Google Apps Script (Webhook → Google Sheets) y un panel de edición de estilos en vivo.
+### 🏢 [Landing Page Galaz](#)
+Landing para administración de condominios con formulario que alimenta automáticamente una planilla de seguimiento.
+**Aporte a la gestión:** captura de solicitudes sin digitación manual, trazabilidad de cada contacto.
+`HTML/CSS/JS` `n8n` `Google Apps Script` `Google Sheets`
 
-## 🛠️ Stack técnico
+## 🛠️ Stack
 
-**Frontend:** HTML, CSS, Bootstrap, JavaScript
+**Análisis y reportería:** Excel avanzado (VBA, tablas dinámicas) · Power BI · Google Sheets
+**Datos y automatización:** Python (pandas) · SQL / MySQL · n8n · Google Apps Script · MS Access
+**Desarrollo:** HTML · CSS · JavaScript · Bootstrap · PHP
+**IA:** RAG · Machine Learning (UT Austin)
+**Gestión:** ISO 9001 · NCh-ISO 31000 · IFRS · Gestión presupuestaria pública · SAP FI
 
-**Backend:** PHP (MVC), MySQL
+---
 
-**Herramientas:** Git, GitHub, XAMPP, NetBeans
+💬 *Abierto a roles de **Control de Gestión, Planificación o Analista de Gestión/BI**, y a proyectos freelance de automatización para pymes.*
 
-**Explorando:** Python (automatización y bots), IA aplicada (RAG, chatbots)
-
-## 📫 Contacto
-
-- GitHub: [@franciscojsp82](https://github.com/franciscojsp82)
