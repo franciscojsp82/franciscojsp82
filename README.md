@@ -1,6 +1,6 @@
 # Francisco Segura Pedreros
 
-### Control de Gestión · Datos · Automatización
+### Control de Gestión · Finanzas · Datos · Automatización
 
 Ingeniero Comercial con **15+ años en planificación y control de gestión**, principalmente en finanzas y en el sector público chileno (CORFO, Subtrans, DGAC, Registro Civil, SERCOTEC). Mi diferencial: **diseño los indicadores y también construyo las herramientas que los miden** — reportería automatizada, sistemas de control de plazos y bots que reducen trabajo manual.
 
