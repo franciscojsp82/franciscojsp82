@@ -38,6 +38,11 @@ Tablero de gestión comercial sobre 2,28 millones de transacciones (2017–2023)
 **Aporte a la gestión:** seguimiento de resultados frente al año anterior, detección de desvíos por categoría, canal y tienda, y lectura ejecutiva en una sola página de resumen. Versionado en formato PBIP para revisar cada cambio del modelo.
 `Power BI` `DAX` `Modelado dimensional` `Power Query (M)` `PBIP/TMDL`
 
+### 📊 [Control de Gestión de Informes — Modelo en Excel](https://github.com/franciscojsp82/control-gestion-informes-excel)
+Modelo de seguimiento del flujo de revisión de 1.200 informes de proyectos, desde el envío hasta la aprobación de jefatura. Calcula automáticamente el estado de cada informe según la última etapa completada y mide los tiempos en días hábiles, descontando los feriados de Chile 2025: plazo de 1ª revisión (máx. 45 días) y ciclo completo. Reporte con tablas y gráficos dinámicos por ejecutivo, instrumento y tipo de informe. Datos ficticios generados con Python.
+**Aporte a la gestión:** visibilidad de la carga y los tiempos de respuesta por ejecutivo, detección de informes atrasados en cada etapa y base lista para definir metas de plazo.
+`Excel` `Tablas dinámicas` `DIAS.LAB` `Python (pandas, openpyxl)` `Control de gestión`
+
 ### 🤖 [Chatbot UAF Chile](https://github.com/franciscojsp82/chatbot-uaf-laft)
 Asistente RAG que responde consultas sobre normativa de prevención de lavado de activos y financiamiento del terrorismo (LA/FT) en Chile.
 **Aporte a la gestión:** acceso rápido a normativa de cumplimiento, menos tiempo de consulta para equipos de control.
