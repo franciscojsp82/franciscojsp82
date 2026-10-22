@@ -43,7 +43,7 @@ Asistente RAG que responde consultas sobre normativa de prevención de lavado de
 **Aporte a la gestión:** acceso rápido a normativa de cumplimiento, menos tiempo de consulta para equipos de control.
 `Python` `LangChain/RAG` `Google Colab`
 
-### 🏛️ [Tablero de Indicadores de Gestión — Servicio Público](https://franciscojsp82.github.io/servicio-publico/)
+### 🏛️ [Sitio Web Google Site — Servicio Público](https://franciscojsp82.github.io/servicio-publico/)
 Sitio de seguimiento de indicadores Google Sites para una institución pública con 19 unidades (nivel central y 14 direcciones regionales) que comparten tres indicadores: ejecución presupuestaria, avance del plan de capacitación y ausentismo. Incluye resumen consolidado con semáforo de cumplimiento y una ficha por unidad, con cálculo automático según el sentido de cada indicador (mayor o menor es mejor). **Aporte a la gestión:** visibilidad del desempeño de todas las unidades en un solo lugar, detección temprana de metas en riesgo y actualización desde un único archivo de datos. `HTML/CSS/JS` `GitHub Pages` `Google Sites` `Control de gestión`
 
 ## 🛠️ Stack
